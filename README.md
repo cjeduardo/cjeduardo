@@ -4,7 +4,7 @@
 - 💼 I'm freelancer, I work with standalone/desktop, web and mobile development
 - 🌱 I’m currently learning ...
 - 📫 You can reach me by: jochico7@gmail.com
-- 👀 My profile views: Creuma-Kuzola
+- 👀 My profile views: cjeduardo
 
 
 
