@@ -2,9 +2,9 @@
 - 🧑🏾‍💻 I’m a programmer 
 - 🧑🏽‍🎓 I'm a studant of computer Engineering at UCAN (Universidade Católica de Angola)
 - 💼 I'm freelancer, I work with standalone/desktop, web and mobile development
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Angular
 - 📫 You can reach me by: jochico7@gmail.com
-- 👀 My profile views: cjeduardo
+- 👀 My profile views: <img src="https://komarev.com/ghpvc/?username=cjeduardo&color=dark" alt="Creuma-Kuzola" /> 
 
 
 
