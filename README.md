@@ -30,8 +30,7 @@
 ##
 
 <!--  <img align="right" alt="CJ_Eduardo-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/91516012?s=400&u=ddd62a3887f1e38404bf6ebc0ba28d01f60e4759&v=4">-->
-  
-  align="center" alt="CJ-C" height="30" width="40"
+
   
 ### Main skills:
 <img align="center" alt="CJ-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
