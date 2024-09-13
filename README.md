@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0091ea&size=30&center=true&vCenter=true&width=1000&lines=HI,+MY+NAME+is+CJ+Eduardo;I+study+Computer+Engineering+at+UCAN;Be+Welcome! )](https://git.io/typing-svg)
 
 *****
-# Hi, I’m CJ Eduardo 🤓
+# Hi, I’m José Chico 🤓
 
 - 🧑🏽‍🎓 I'm a studant of computer Engineering at UCAN
 
