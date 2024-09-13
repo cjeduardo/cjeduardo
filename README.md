@@ -52,9 +52,6 @@
   <img align="center" alt="CJ-JQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" /> | 
   <img align="center" alt="CJ-BootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" /> | 
   <img align="center" alt="CJ-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /> | 
-
-
-#  <img align="center" alt="CJ-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
 </div>
 
 ### Tools:
