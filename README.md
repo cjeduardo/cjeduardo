@@ -34,6 +34,7 @@
   
 ### Main skills:
 <div>
+  <img align="center" alt="CJ-Postgresql" height="70" width="80" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original-wordmark.svg" />
   <img align="center" alt="CJ-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> | 
   <img align="center" alt="CJ-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> | 
   <img align="center" alt="CJ-Postgresql" height="100" width="100" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-plain-wordmark.svg" /> | 
@@ -49,7 +50,6 @@
 
 ### Tools:
 <div>
-  <img align="center" alt="CJ-Postgresql" height="70" width="80" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original-wordmark.svg" />
   <img align="center" alt="CJ-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> | 
   <img align="center" alt="CJ-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"> | 
   <img align="center" alt="CJ-AStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
