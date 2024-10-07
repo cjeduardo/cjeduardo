@@ -3,7 +3,7 @@
 *****
 # Hi, I’m José Chico 🤓
 
-- 🧑🏽‍🎓 I'm a studant of computer Engineering at UCAN
+- I'm programmer, I have no life
 
 <!--<div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
